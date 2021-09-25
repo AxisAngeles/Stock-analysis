@@ -12,16 +12,21 @@ We first improved the 1st deliverable to our client, which was an automatic proc
 Thus, the code behind the analysis resulted on a 0.023 seconds time improvement regarding data processing time, as shown on the following images.
 
 **Original:**
-![Original_Process_Time](https://github.com/AxisAngeles/stock-analysis/blob/main/Resources/Original_2018.PNG)
+![Original_Process_Time](https://github.com/AxisAngeles/Stock-analysis/blob/main/Resources/Original_2018.PNG)
 
 **Improved Code:**
-![Improvded_Process_Time](https://github.com/AxisAngeles/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![Improvded_Process_Time](https://github.com/AxisAngeles/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 _NOTE: This may not seem like a hughe time saving improvement, but as the data set increases, the changes will add up to a several minutes difference._
 
 
 ### Analysis Results
-For any investment, there's usually a lot of ellements to be taken into account: risk adversity, timming, capital, etc. However, for this analysis 
+For any investment, there's usually a lot of ellements to be taken into account: risk adversity, timming, capital, etc. However, for this analysis we'll make our recommendation based on the annual return for 2017 and 2018 which are shown on the following chart:
+
+**Annual return for analyzed stocks:**
+![Annual_Return](https://github.com/AxisAngeles/Stock-analysis/blob/main/Resources/AllStock_Analysis.png)
+
+The upper graph shows different annual returns for each stock in 2017 and 2018.
 
 
 ### Challenges and Difficulties Encountered

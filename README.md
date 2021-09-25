@@ -19,7 +19,7 @@ Thus, the code behind the analysis resulted on a 0.023 seconds time improvement 
 
 ![Improvded_Process_Time](https://github.com/AxisAngeles/Stock-analysis/blob/main/Challenge/Resources/VBA_Challenge_2018.png)
 
-_NOTE: This may not seem like a hughe time saving improvement, but as the data set increases, the changes will add up to a several minutes difference._
+_NOTE: This may not seem like a huge time saving improvement, but as the data set increases, the changes will add up to a several minutes difference._
 
 
 ### Analysis Results
@@ -33,5 +33,7 @@ The upper graph shows different annual returns for each stock in 2017 and 2018. 
 This is why, we may conclude that investing in both **ENPH** and **RUN** should be a reliable option for our clients, after all, _diversification_ is allways a good advice.
 
 ### Summary
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+1. What are the advantages or disadvantages of refactoring code?
+  - There are several advantages of continiously improving the code: time improvement; including additional steps for the analysis; also having a cleaner code should make it easier for other people to work and reuse the code.
+2. How do these pros and cons apply to refactoring the original VBA script?
+  - Refactoring code will rewrite some statements to have the same results in less steps, which will result in a cleaner, faster code and process.
